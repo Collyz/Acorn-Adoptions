@@ -104,7 +104,7 @@ a {
 .adopt{
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
     margin: 0px;
 }
 
@@ -118,10 +118,16 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 200px;
+    max-width: 150px;
 }
 
 .squirrel-desc{
     text-align: center;
     margin: 0px;
+}
+
+.customer-quote{
+    margin-top: 50px;
+    height: 100px;
+    background-color: #E5E7EB;
 }
