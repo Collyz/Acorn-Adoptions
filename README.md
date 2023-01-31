@@ -1,2 +1,2 @@
 # Acorn-Adoptions
-Created through the Odin Project, this is a website about a fake squirrel adoption company.
+There are no squirrels here! Go to the website https://collyz.github.io/Acorn-Adoptions/.
